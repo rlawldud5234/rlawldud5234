@@ -19,7 +19,7 @@ Have a nice day. :)
   </div>
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rlawldud5234)  
+- 🔭 I’m currently working on [Github Renewal](https://github.com/rlawldud5234)  
   
 
 - 🌱 I’m currently learning Hardware Technology  
