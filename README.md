@@ -2,17 +2,15 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-  #こんにちは！日本のITエンジニアを目指しているキム·ジヨンと申します。
+# こんにちは！日本のITエンジニアを目指しているキム·ジヨンと申します。
 ### <div align="center">
-  
 まだたくさん足りないですが,、人々に幸せを与える開発者になるため一生懸命勉強しています。
 みなさん！いつもお幸せに。:)
  
   </div>  
   
-   #Hello! I'm Jiyeong Kim and I'm aiming to become an IT engineer in Japan. 👨‍💻 
-  <div>
- 
+# Hello! I'm Jiyeong Kim and I'm aiming to become an IT engineer in Japan. 👨‍💻 
+## <div>
 I'm still not good enough, but I'm studying hard to be a developer who gives happiness to people.🚀
 Have a nice day. :)
   </div>
@@ -24,7 +22,7 @@ Have a nice day. :)
 - 🌱 I’m currently learning Hardware Technology  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
