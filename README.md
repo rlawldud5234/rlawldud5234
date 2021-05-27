@@ -6,9 +6,14 @@
   こんにちは！日本のITエンジニアを目指しているキム·ジヨンと申します。
 まだたくさん足りないですが,、人々に幸せを与える開発者になるため一生懸命勉強しています。
 みなさん！いつも幸せになってください。:)
+ 
+  </div>  
+  
+  <div>
   Hello! I'm Jiyeong Kim and I'm aiming to become an IT engineer in Japan 👨‍💻 .
 I'm still not good enough, but I'm studying hard to be a developer who gives happiness to people.🚀
-Have a nice day. :) </div>  
+Have a nice day. :)
+  </div>
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rlawldud5234)  
