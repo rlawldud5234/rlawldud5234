@@ -2,7 +2,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm JiYeong Kim, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">
+  こんにちは！日本のITエンジニアを目指しているキム·ジヨンと申します。
+まだたくさん足りないですが,、人々に幸せを与える開発者になるため一生懸命勉強しています。
+みなさん！いつも幸せになってください。:)
+  Hello! I'm Jiyeong Kim and I'm aiming to become an IT engineer in Japan 👨‍💻 .
+I'm still not good enough, but I'm studying hard to be a developer who gives happiness to people.🚀
+Have a nice day. :) </div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rlawldud5234)  
