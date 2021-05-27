@@ -10,9 +10,10 @@
   </div>  
   
 # Hello! I'm Jiyeong Kim and I'm aiming to become an IT engineer in Japan. 👨‍💻 
-## <div>
+### <div align="center">
 I'm still not good enough, but I'm studying hard to be a developer who gives happiness to people.🚀
 Have a nice day. :)
+  
   </div>
   
 
