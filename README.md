@@ -92,7 +92,8 @@ Have a nice day. :)
 </a>  
 </div>  
   
-
+https://youtu.be/LCMlOh9cqaY
+## こちらは卒業プロジェクトの紹介や試演映像です。
 <br/>  
 
 
