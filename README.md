@@ -78,12 +78,14 @@ Have a nice day. :)
   
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawldud5234&count_bg=%233DBCC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
   
 </td></tr></table>  
 
 <br/>  
 
+<div align="center"> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawldud5234&count_bg=%233DBCC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+</div>
 
 ## Connect with me  
 <div align="center">
