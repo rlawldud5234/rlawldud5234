@@ -53,7 +53,6 @@ Have a nice day. :)
 </td><td valign="top" width="33%">
 
 
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
